@@ -5,15 +5,10 @@ About Me Hello! My name is Dulat, and I am a entry-level data analytics professi
 In this repository, you can find some of my projects completed during my training and practice. 
 
 Skills and Technologies 
-
 Data Analysis Tools: SQL, Excel 
-
 Programming Languages and Libraries: Python, Pandas, math 
-
 Database Management Systems: MySQL, PostgreSQL 
-
 Data Visualization Tools: PowerBi, Matplotlib, seaborn 
-
 Machine Learning Tools: scikit-learn, TensorFlow 
 
 Projects Project 1: Online Cinema Unit Economics Calculator 
