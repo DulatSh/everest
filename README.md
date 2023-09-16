@@ -6,11 +6,11 @@ In this repository, you can find some of my projects completed during my trainin
 
 Skills and Technologies 
 
----:bookmark: Data Analysis Tools: SQL, Excel 
----:bookmark: Programming Languages and Libraries: Python, Pandas, math 
----:bookmark: Database Management Systems: MySQL, PostgreSQL 
----:bookmark: Data Visualization Tools: PowerBi, Matplotlib, seaborn 
----:bookmark: Machine Learning Tools: scikit-learn, TensorFlow 
+:bookmark: Data Analysis Tools: SQL, Excel 
+:bookmark: Programming Languages and Libraries: Python, Pandas, math 
+:bookmark: Database Management Systems: MySQL, PostgreSQL 
+:bookmark: Data Visualization Tools: PowerBi, Matplotlib, seaborn 
+:bookmark: Machine Learning Tools: scikit-learn, TensorFlow 
 
 Projects Project 1: Online Cinema Unit Economics Calculator 
 Tasks: 
