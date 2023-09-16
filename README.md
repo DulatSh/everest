@@ -20,7 +20,7 @@ Skills and Technologies
 Tasks: 
 
 Task 1. Determine what constitutes a unit in the economy of this project.   
-Task 2. Calculate the unit economics of the product and propose a scenario for configuring parameters to achieve a 25% profit margin.   
+Task 2. Calculate the unit economics of the product and propose a scenario for configuring parameters to achieve a 25% profit margin.     
 Task 3. Select the optimal method for calculating retention.   
 Task 4. Create visualizations of key business metrics.   
 Task 5. Analyze user data and their behavior.  
