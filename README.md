@@ -16,7 +16,7 @@ Skills and Technologies
 
 :bookmark: Machine Learning Tools: scikit-learn, TensorFlow 
 
-Projects Project 1: Online Cinema Unit Economics Calculator 
+#### Projects Project 1: Online Cinema Unit Economics Calculator 
 Tasks: 
 
 Task 1. Determine what constitutes a unit in the economy of this project. 
@@ -36,7 +36,7 @@ How many of the most popular films are needed to cover half of all views.
 How activity is distributed throughout the day. And throughout the week. Is there a difference in activity between weekends and weekdays. 
 How users are distributed across time zones.
 
-Project 2: Modeling Changes in Student Balances
+#### Project 2: Modeling Changes in Student Balances
 Tasks: 
 Task 1. The main task is to model the changes in students' balances. 
 Task 2. Determine the total number of lessons that were on the balance of all students for each calendar day. 
@@ -54,6 +54,6 @@ The ability to identify problems in data and discuss them.
 The ability to write code that produces the correct result in the format requested by the client.
 The ability to write readable code that can be easily understood by colleagues.
 
-Contact Information
+### Contact Information
 Email: hk.dulat@gmail.com
 LinkedIn: https://www.linkedin.com/in/dulat-shaikhyzhanov-088040164/
