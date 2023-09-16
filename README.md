@@ -52,4 +52,4 @@ The ability to write readable code that can be easily understood by colleagues.
 
 ### Contact Information
 Email: hk.dulat@gmail.com    
-LinkedIn: https://www.linkedin.com/in/dulat-shaikhyzhanov-088040164/
+LinkedIn: LinkedIn-blue https://www.linkedin.com/in/dulat-shaikhyzhanov-088040164/
