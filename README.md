@@ -51,5 +51,5 @@ The ability to write code that produces the correct result in the format request
 The ability to write readable code that can be easily understood by colleagues.
 
 ### Contact Information
-Email: hk.dulat@gmail.com   
+Email: hk.dulat@gmail.com    
 LinkedIn: https://www.linkedin.com/in/dulat-shaikhyzhanov-088040164/
