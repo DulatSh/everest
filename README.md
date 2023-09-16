@@ -6,7 +6,7 @@ In this repository, you can find some of my projects completed during my trainin
 
 Skills and Technologies 
 
-:bookmark: Data Analysis Tools: SQL, Excel   
+:bookmark: Data Analysis Tools: SQL, Excel     
 :bookmark: Programming Languages and Libraries: Python, Pandas, math   
 :bookmark: Database Management Systems: MySQL, PostgreSQL   
 :bookmark: Data Visualization Tools: PowerBi, Matplotlib, seaborn   
