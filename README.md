@@ -1,4 +1,5 @@
-Portfolio: Data Analyst 
+Portfolio: Data Analyst
+
 About Me Hello! My name is Dulat, and I am a entry-level data analytics professional recently completed the Google Data Analytics Professional Certificate and SkyPro Certificate. In this repository, you can find some of my projects completed during my training and practice. 
 
 Skills and Technologies 
