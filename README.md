@@ -12,7 +12,7 @@ Skills and Technologies
 :bookmark: Data Visualization Tools: PowerBi, Matplotlib, seaborn   
 :bookmark: Machine Learning Tools: scikit-learn, TensorFlow   
 
-#### Projects Project 1: Online Cinema Unit Economics Calculator 
+#### Project 1: Online Cinema Unit Economics Calculator 
 Tasks: 
 
 Task 1. Determine what constitutes a unit in the economy of this project.   
